@@ -58,11 +58,12 @@ wire adash,bdash,cdash,ddash,ydash,p,q,r,s,t,u;
  or(f2,s,t,u);
 endmodule
 ```
+
 ## RTL realization
-![image](https://github.com/Rsriram13/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742823/b508b8e0-46ce-40bb-8c18-cd12104154cf)
+![image](https://github.com/Rsriram13/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742823/6b984a74-5836-44d8-a927-73e49f4dcc1e)
 
 ## Timing Diagram
-![image](https://github.com/Rsriram13/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742823/e0fc2c7f-e573-499d-b848-8beeddf0daf0)
+![image](https://github.com/Rsriram13/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742823/e8ad3dff-3f67-4ff7-8372-9f0ccb4167ff)
 ## Result:
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
